@@ -19,4 +19,4 @@ This project is a part of the continuous assessment for Data Storage and Managem
 4. OpenStack Cloud Platform
 5. Test harness script
 
-**Project Description:** Bencingmarking of HBase and MongoDB on a OpenStack Cloud Platform vitual machine was done using YCSB and testharness. 
+**Project Description:** Bencingmarking of HBase and MongoDB on an OpenStack Cloud Platform virtual machine was done using YCSB and testharness. 
